@@ -1,8 +1,8 @@
 # Analise-de-Aprendizado-Semi-supervisionado
 
-**Trabalho 1 da Disciplina de Aprendizado de Máquina 2
+**Trabalho 1 da Disciplina de Aprendizado de Máquina 2**
 
-Professor: Diego Furtado Silva**
+**Professor: Diego Furtado Silva**
 
 Integrantes:
 
